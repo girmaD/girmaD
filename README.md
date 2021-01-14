@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* For my linkedIn Profile [click here](https://www.linkedin.com/in/girma-ebssa-23aa801b5/) 
-* For my gitHub Profile [click here](https://github.com/girmaD)
+* linkedIn:  [https://www.linkedin.com/in/girma-ebssa-23aa801b5/](https://www.linkedin.com/in/girma-ebssa-23aa801b5/) 
+* Portfolio: [https://girmad.github.io/Responsive_Portfolio/](https://girmad.github.io/Responsive_Portfolio/)
+* email: [girma.derib@gmail.com](girma.derib@gmail.com) 
