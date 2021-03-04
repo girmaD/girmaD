@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 * linkedIn:  [https://www.linkedin.com/in/girma-ebssa/](https://www.linkedin.com/in/girma-ebssa/) 
 * Portfolio: [https://girmad.github.io/Responsive_Portfolio/](https://girmad.github.io/Responsive_Portfolio/)
+* Email: [girma.derib@gmail.com](girma.derib@gmail.com)
